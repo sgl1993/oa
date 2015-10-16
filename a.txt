@@ -1,17 +1,2 @@
 111111
-222222
-333333
-444444
-555555
-666666
-777777
-000000
-888888
-aaaaaa
-write this information to github test by master push
-this line this githubservice to change!
-test conflict ,writing by local master
 
-To testing the conflict!at 13 line
-
-the success update in repository
